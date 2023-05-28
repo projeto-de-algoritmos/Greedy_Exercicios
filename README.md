@@ -17,11 +17,11 @@ Este projeto foi feito com a resolução de 4 exercícios abordando os temas de 
 
 **Nível do exercício:** Médio
 
-Para acessar a página do exercício [clique aqui]([https://codeforces.com/problemset/problem/609/E](https://www.beecrowd.com.br/judge/pt/problems/view/1034#_=_)).
+Para acessar a página do exercício [clique aqui]([https://codeforces.com/problemset/problem/609/E](https://www.beecrowd.com.br/judge/pt/problems/view/1034#_=_).
 
 ![image](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosCodeForces/assets/80906504/d6f16dce-bf73-4c71-91d5-b194c3aeb985)
 
-Neste exercício foi implementado o algoritmo de Kruskal. A imagem demonstra o problema escolhido, parte do código e a nota, no caso, accepted.
+Neste exercício foi implementado o algoritmo da mochila. A imagem demonstra o problema escolhido, parte do código e a nota, no caso, resolvido.
 
 ## Instalação 
 **Linguagem**: C++<br>
