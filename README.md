@@ -13,7 +13,20 @@
 Este projeto foi feito com a resolução de 4 exercícios abordando os temas de Algoritmos Ambiciosos. Os exercícios foram retirados do site [Beecrowd](https://www.beecrowd.com.br/judge/pt/login).
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Exercicio 1 - "Festival de Estátuas de Gelo"
+
+**Nível do exercício:** Médio
+
+Para acessar a página do exercício [clique aqui]([https://codeforces.com/problemset/problem/609/E](https://www.beecrowd.com.br/judge/pt/problems/view/1034#_=_)).
+
+![image](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosCodeForces/assets/80906504/d6f16dce-bf73-4c71-91d5-b194c3aeb985)
+
+Neste exercício foi implementado o algoritmo de Kruskal. A imagem demonstra o problema escolhido, parte do código e a nota, no caso, accepted.
+
+## Instalação 
+**Linguagem**: C++<br>
+
+Para compilar o código corretamente utilize o compilador do GCC
 
 ## Instalação 
 **Linguagem**: xxxxxx<br>
