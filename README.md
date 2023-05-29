@@ -1,1 +1,1 @@
-repositorio unitilizado
+repositorio inutilizado
